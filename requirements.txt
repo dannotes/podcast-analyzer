@@ -1,0 +1,5 @@
+# Core dependencies
+nltk==3.8.1
+pandas==2.1.4
+matplotlib==3.8.2s
+seaborn==0.13.2
